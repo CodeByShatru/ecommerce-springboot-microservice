@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codebyshatru.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.844 s - in com.codebyshatru.productservice.ProductServiceApplicationTests

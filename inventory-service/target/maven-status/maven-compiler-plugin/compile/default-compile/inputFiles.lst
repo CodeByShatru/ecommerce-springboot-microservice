@@ -1,0 +1,9 @@
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\entity\Inventory.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\InventoryServiceApplication.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\config\MapperConfig.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\repository\InventoryRepository.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\service\InventoryService.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\controller\InventoryController.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\dto\CreateInventoryDto.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\dto\InventoryResponse.java
+C:\Projects\Java\imachinemart-microservice\inventory-service\src\main\java\com\codebyshatru\inventoryservice\exception\ExceptionHandlerController.java

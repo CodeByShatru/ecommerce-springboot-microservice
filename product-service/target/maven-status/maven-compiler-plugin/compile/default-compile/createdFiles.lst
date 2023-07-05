@@ -1,0 +1,10 @@
+com\codebyshatru\productservice\controller\ProductController.class
+com\codebyshatru\productservice\service\ProductService.class
+com\codebyshatru\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\codebyshatru\productservice\repository\ProductRepository.class
+com\codebyshatru\productservice\model\Product$ProductBuilder.class
+com\codebyshatru\productservice\dto\ProductResponse.class
+com\codebyshatru\productservice\model\Product.class
+com\codebyshatru\productservice\ProductServiceApplication.class
+com\codebyshatru\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\codebyshatru\productservice\dto\ProductRequest.class

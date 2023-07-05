@@ -1,0 +1,11 @@
+com\codebyshatru\inventoryservice\repository\InventoryRepository.class
+com\codebyshatru\inventoryservice\dto\CreateInventoryDto$CreateInventoryDtoBuilder.class
+com\codebyshatru\inventoryservice\config\MapperConfig.class
+com\codebyshatru\inventoryservice\dto\CreateInventoryDto.class
+com\codebyshatru\inventoryservice\controller\InventoryController.class
+com\codebyshatru\inventoryservice\entity\Inventory.class
+com\codebyshatru\inventoryservice\service\InventoryService.class
+com\codebyshatru\inventoryservice\exception\ExceptionHandlerController.class
+com\codebyshatru\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\codebyshatru\inventoryservice\InventoryServiceApplication.class
+com\codebyshatru\inventoryservice\dto\InventoryResponse.class

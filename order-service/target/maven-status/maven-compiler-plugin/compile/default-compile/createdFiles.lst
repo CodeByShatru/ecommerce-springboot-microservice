@@ -1,0 +1,12 @@
+io\shatru\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+io\shatru\orderservice\model\Order.class
+io\shatru\orderservice\repository\OrderRepository.class
+io\shatru\orderservice\dto\InventoryResponse.class
+io\shatru\orderservice\dto\OrderLineItemsDto.class
+io\shatru\orderservice\integration\WebClientConfig.class
+io\shatru\orderservice\service\OrderService.class
+com\codebyshatru\orderservice\OrderServiceApplication.class
+io\shatru\orderservice\exception\ExceptionHandlerController.class
+io\shatru\orderservice\controller\OrderController.class
+io\shatru\orderservice\dto\OrderRequest.class
+io\shatru\orderservice\model\OrderLineItems.class
